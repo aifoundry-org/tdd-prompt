@@ -27,4 +27,19 @@ We're working in Python,
 on the premise that this is the most accessible choice
 for an open demonstration of the concept.
 
+## Next Steps/Backlog
+
+- [x] Setup initial notebook
+- [x] Get one assertion passing using OpenAI's API.
+- [x] Get repo pushed
+- [x] Write next-steps list
+- [ ] Test reliability of "you are echo say argh"
+- [ ] Test more complex echo service examples
+- [ ] Test reliability of more complex examples
+- [ ] Maybe: TDD structured-data/function call for geoboxes
+- [ ] Maybe: Make test use any one additional remote model
+- [ ] Maybe: Make test use any one additional local model
+- [ ] Maybe: Write CI representing repeat-run capability
+- [ ] ...
+
 [colab-notebook]: https://colab.research.google.com/drive/1Irt3jJs1Ft9WKXSfpg0CanOG9daolqBQ?usp=share_link
