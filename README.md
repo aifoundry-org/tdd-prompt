@@ -1,5 +1,9 @@
 # An Experiment in Test-Driven Development for LLM Prompts
 
+You can collaborate with us on the developing the code
+that forms the basis for work in this repo
+by accessing our [Google Colab notebook][colab-notebook].
+
 "Prompt engineering" can very rapidly produce
 very impressive results
 from plain english prompting.
@@ -22,3 +26,5 @@ but the first problem we want to focus on is the system prompt.
 We're working in Python,
 on the premise that this is the most accessible choice
 for an open demonstration of the concept.
+
+[colab-notebook]: https://colab.research.google.com/drive/1Irt3jJs1Ft9WKXSfpg0CanOG9daolqBQ?usp=share_link
